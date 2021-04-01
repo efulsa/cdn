@@ -4,5 +4,5 @@ choice file in folder, example : xxx.js
 click raw
 copy url raw
 go to link create cdn
-copy url in link create cnd
+copy url in link create cnd "Use this URL in production"
 paste to src
