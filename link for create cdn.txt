@@ -1,0 +1,7 @@
+https://raw.githack.com/
+
+choice file in folder, example : xxx.js
+click raw
+copy raw
+go to link
+paste
