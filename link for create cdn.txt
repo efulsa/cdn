@@ -1,7 +1,8 @@
-https://raw.githack.com/
+link create cdn : https://raw.githack.com/
 
 choice file in folder, example : xxx.js
 click raw
-copy raw
-go to link
-paste
+copy url raw
+go to link create cdn
+copy url in link create cnd
+paste to src
